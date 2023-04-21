@@ -32,7 +32,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="20dp"
-         android:text="Edit profile" />
+         android:text="Edit profile"
+        android:backgroundTint="@color/black"/>
 
     <LinearLayout
         android:layout_width="match_parent"
