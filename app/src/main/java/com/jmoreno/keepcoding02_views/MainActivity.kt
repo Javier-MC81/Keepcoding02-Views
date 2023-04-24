@@ -6,6 +6,6 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.constraint_layout_ej1)
+        setContentView(R.layout.bottom_bar_constraint)
     }
 }
